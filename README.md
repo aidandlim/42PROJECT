@@ -1,2 +1,4 @@
-# 42PROJECT
-The navigation of 42 project
+# PROJECT
+
+Unfortunately, this navigation is under construction..!
+Please check out the repository menu :)
