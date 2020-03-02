@@ -2,7 +2,11 @@
 
 ### Description
 
-&nbsp;&nbsp;&nbsp;&nbsp;*NOT YET*
+> These are projects in bootcamp named <a href="https://www.42.us.org" target="_blank">`42 Silicon Valley`</a> at Fremont, California. 
+
+> They have a lot of project curriculum and I worked on several projects based on not only the language C project but also the web branch that includes Javascript and Java.
+
+<br>
 
 ### Project List
 
@@ -85,8 +89,6 @@
 
 > A Social Network Service(SNS) for sharing pictures like Instagram
 
-> A web brunch project of bootcamp named <a href="https://www.42.us.org" target="_blank">`42 Silicon Valley`</a>
-
 > Demo Site : https://camagru.aidandlim.com
 
 > Source Code : https://github.com/aidandlim/portfolio_camagru
@@ -99,8 +101,6 @@
 
 > A Social Network Service(SNS) for matching dating partner like Tinder
 
-> A web brunch project of bootcamp named <a href="https://www.42.us.org" target="_blank">`42 Silicon Valley`</a>
-
 > Demo Site : https://matcha.aidandlim.com
 
 > Source Code : https://github.com/aidandlim/portfolio_matcha
@@ -112,7 +112,5 @@
 > A responsive Single Page Application(SPA) using React, Node & Java
 
 > Responsive Web Application for Streaming Video with Torrent
-
-> A web brunch project of bootcamp named <a href="https://www.42.us.org" target="_blank">`42 Silicon Valley`</a>
 
 > Source Code : https://github.com/aidandlim/portfolio_hypertube
